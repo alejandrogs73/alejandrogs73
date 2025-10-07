@@ -52,7 +52,7 @@ Me interesa aplicar la informática como herramienta para la eficiencia, la sobe
 
 ## 📡 Contacto & Redes
 
-* 📷 Instagram: [@alejandro.gs73](https://instagram.com/alejandrogs73)
+* 📷 Instagram: [@alejandro.gs73](https://instagram.com/alejandro.gs73)
 * 💬 Discord: `alejandro.gs73`
 * 🪐 Forgejo personal: [git.jd34.net/alejandrogs73](https://git.jd34.net/alejandrogs73)
 
