@@ -42,8 +42,7 @@ Me interesa aplicar la informática como herramienta para la eficiencia, la sobe
 * 🏛️ **[Partido Nacional Hispanista (PNH)](https://pnh.09072007.xyz)**
   Fundador y Coordinador General. Organización política que defiende la unidad cultural hispánica, la tradición católica y la justicia social.
 
-* 🔧 **Soporte Técnico – Fórmula Gades (Sección de Electrónica)**
-  Apoyo en informática aplicada, automatización de procesos y mantenimiento de sistemas.
+* 🔧 **Fórmula Gades (Sección de Electrónica)**
 
 * 📜 **Escritos y reflexiones**
   Ensayos y textos sobre filosofía política, educación y cultura.
