@@ -3,8 +3,11 @@
 > *"La tecnología es un medio para el progreso humano; la política, para la defensa del bien común."*
 
 👨‍🎓 **Estudiante de Ingeniería Eléctrica en la Universidad de Cádiz (ESI)**
+
 💻 **Programador y entusiasta de la informática aplicada**
+
 📖 **Interesado en filosofía política y pensamiento crítico**
+
 🏛️ **Fundador y Coordinador General del Partido Nacional Hispanista (PNH)**
 
 ---
@@ -22,7 +25,7 @@ Me interesa aplicar la informática como herramienta para la eficiencia, la sobe
 ## 🛠️ Áreas de conocimiento e intereses
 
 * ⚡ **Ingeniería Eléctrica**: circuitos, electrónica aplicada, sistemas eléctricos
-* 💻 **Programación**: C, Python, Java, desarrollo web (HTML, CSS, JavaScript) y scripting para automatización
+* 💻 **Programación**: C, C++, Python, Java, desarrollo web (HTML, CSS, JavaScript) y scripting para automatización
 * 🐧 **GNU/Linux**: administración, autohospedaje de servicios
 * 🔐 **Seguridad y privacidad**: criptografía y buenas prácticas digitales
 * 📚 **Filosofía política y educación crítica**
